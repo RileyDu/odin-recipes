@@ -1,18 +1,21 @@
-* {
+*{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: green;
     color: cadetblue;
     text-align: center;
 }
 
-h1 {
-
+h1{
+    text-decoration: underline wheat;
 }
 
-h2 {
-
+h2{
+    text-decoration: dashed wheat;
 }
 
-h3 {
-
+h3{
+    text-decoration: dashed wheat;
+}
+p{
+    size: 70px;
 }
