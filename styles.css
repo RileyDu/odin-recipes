@@ -1,23 +1,17 @@
-.header{
-    text-decoration: underline;
-    color: #49b2f3;
-    font-size: 50px;
-}
-
-h2{
-    text-decoration: dashed;
-}
-
-h3{
-    text-decoration: dashed;
-}
-p{
-    font-size: 15px;
-}
-
 *{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: #5e67a2;
     color: cadetblue;
     text-align: center;
+}
+
+.header{
+    text-decoration-line: underline;
+    text-transform: uppercase;
+    color: #49b2f3;
+    font-size: 50px;
+}
+
+.las{
+    text-transform: uppercase;
 }
